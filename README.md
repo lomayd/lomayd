@@ -1,16 +1,40 @@
-### Hi there 👋
+### 👋 I'm lomayd
+Hello! My Name is **Jinho Kim.**
 
-<!--
-**lomayd/lomayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I'm interested in...
+- Web Server Development
+- Database Management, Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Experience
+- 2018.03 ~ : Kyung Hee Univ. [D.COM](https://github.com/Dcom-KHU) Club Member
+- 2021.01 ~ 2021.12 : Kyung Hee Univ. [D.COM](https://github.com/Dcom-KHU) Club Leader
+- 2023.02 ~ 2023.06 : Law Firm Yulchon KM(Knowledge Management) Team Intern
+
+---
+
+### Tech Stack
+
+#### Framework
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"></a>
+<a><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff"></a>
+
+#### Database
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-6DB33F?style=for-the-badge&logo=MongoDB&logoColor=ffffff"/></a>
+
+#### Infrastructure
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff"/></a>
+<a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=ffffff"/></a>
+
+---
+
+### Social
+<a href="https://velog.io/@lomayd"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=ffffff"/></a>
+<a href="mailto:jinho10167@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
+
+---
