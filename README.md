@@ -10,7 +10,7 @@ Hello! My Name is **Jinho Kim.**
 ---
 
 ### Experience
-- 2018.03 ~ : Kyung Hee Univ. [D.COM](https://github.com/Dcom-KHU) Club Member
+- 2018.03 ~ 2024.02 : Kyung Hee Univ. [D.COM](https://github.com/Dcom-KHU) Club Member
 - 2021.01 ~ 2021.12 : Kyung Hee Univ. [D.COM](https://github.com/Dcom-KHU) Club Leader
 - 2023.02 ~ 2023.06 : Law Firm Yulchon KM(Knowledge Management) Team Intern
 
@@ -30,3 +30,9 @@ Hello! My Name is **Jinho Kim.**
 #### Infrastructure
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=ffffff"/></a>
+
+---
+
+### Social
+<a href="https://lomayd.github.io/"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:jinho10167@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a>
