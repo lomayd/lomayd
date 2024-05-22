@@ -1,3 +1,7 @@
+![header](https://github.com/lomayd/lomayd/assets/82189072/c77be887-694e-4a5e-ae7c-5084c5d993ae)
+
+
+
 **안녕하세요👋🏻 백엔드 개발자 김진호입니다!**
 
 **사람들의 삶의 질을 올리는 서비스를 만들고 있습니다😊**
@@ -5,9 +9,11 @@
 ---
 
 ### 🎒 활동, 경력
-- 2018.03 ~ 2024.02: 경희대학교 학술 동아리 [D.COM](https://github.com/Dcom-KHU) 멤버
-- 2021.01 ~ 2021.12: 경희대학교 학술 동아리 [D.COM](https://github.com/Dcom-KHU) 회장
-- 2023.02 ~ 2023.06: 법무법인 율촌 지식관리팀 IT파트 인턴
+- 2018.03. ~ 2024.02. 경희대학교 학술 동아리 [D.COM](https://github.com/Dcom-KHU) 멤버
+- 2021.01. ~ 2021.12. 경희대학교 학술 동아리 [D.COM](https://github.com/Dcom-KHU) 회장
+- 2023.09. ~ 2024.02. 경희대학교 SW 멤버십 공모전 그룹 멤버
+<br/></br>
+- 2023.02. ~ 2023.06. 법무법인 율촌 지식관리팀 IT파트 인턴
 
 ---
 
@@ -24,13 +30,13 @@ Infrastructure|<a><img src="https://img.shields.io/badge/Docker-2496ED?style=fla
 ---
 
 ### 📝 프로젝트
-이름|내용|소스코드|성과
----|---|---|---|
-🍺 SSD| NFC를 이용한 스마트 소주 디스펜서|[바로가기](https://github.com/new-tech-project-2/ssd-backend)|2022 경희대학교 SW 페스티벌 우수상
-📞 CASE| 통화 녹음 요약 및 감정(뉘앙스) 분석 웹 서비스|[바로가기](https://github.com/khu-capstone-design-case/case-backend)
-👶🏻 금시초문| 초보 부모들을 위한 육아 정보 안내 서비스|[바로가기](https://github.com/khuthon-parenting-sim/parenting-sim-backend)|2023 경희대학교 SW 해커톤(Khuthon) 우수상
-🥕 NearBuy| 1인 가구, 자취생들을 위한 동네 거래 플랫폼|[바로가기](https://github.com/Dcom-KHU/nearbuy-backend)
-🍽️ 냉장고를 부탁해|냉장고에 있는 재료 관리와 관련 레시피 안내 서비스|[바로가기](https://github.com/Dcom-KHU/refrigerator-api-server)
+이름|내용|성과
+---|---|---|
+🍺 [SSD](https://github.com/new-tech-project-2/ssd-backend)|NFC를 이용한 스마트 소주 디스펜서|2022 경희대학교 SW 페스티벌 우수상
+📞 [CASE](https://github.com/khu-capstone-design-case/case-backend)|통화 녹음 요약 및 감정(뉘앙스) 분석 서비스
+👶🏻 [금시초문](https://github.com/khuthon-parenting-sim/parenting-sim-backend)|초보 부모들을 위한 육아 정보 안내 서비스|2023 경희대학교 SW 해커톤(Khuthon) 우수상
+🥕 [NearBuy](https://github.com/Dcom-KHU/nearbuy-backend)|1인 가구, 자취생들을 위한 동네 거래 플랫폼|
+🍽️ [냉장고를 부탁해](https://github.com/Dcom-KHU/refrigerator-api-server)|냉장고 속 재료 관리와 관련 레시피 안내 서비스|
 
 ---
 
