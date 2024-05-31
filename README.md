@@ -1,7 +1,5 @@
 ![header](https://github.com/lomayd/lomayd/assets/82189072/c77be887-694e-4a5e-ae7c-5084c5d993ae)
 
-
-
 **안녕하세요👋🏻 백엔드 개발자 김진호입니다!**
 
 **사람들의 삶의 질을 올리는 서비스를 만들고 있습니다😊**
@@ -32,17 +30,16 @@ Infrastructure|<a><img src="https://img.shields.io/badge/Docker-2496ED?style=fla
 ### 📝 프로젝트
 이름|내용|성과
 ---|---|---|
-🍺 [SSD](https://github.com/new-tech-project-2/ssd-backend)|NFC를 이용한 스마트 소주 디스펜서|2022 경희대학교 SW 페스티벌 우수상
 📞 [CASE](https://github.com/khu-capstone-design-case/case-backend)|통화 녹음 요약 및 감정(뉘앙스) 분석 서비스
 👶🏻 [금시초문](https://github.com/khuthon-parenting-sim/parenting-sim-backend)|초보 부모들을 위한 육아 정보 안내 서비스|2023 경희대학교 SW 해커톤(Khuthon) 우수상
 🥕 [NearBuy](https://github.com/Dcom-KHU/nearbuy-backend)|1인 가구, 자취생들을 위한 동네 거래 플랫폼|
+🍺 [SSD](https://github.com/new-tech-project-2/ssd-backend)|NFC를 이용한 스마트 소주 디스펜서|2022 경희대학교 SW 페스티벌 우수상
 🍽️ [냉장고를 부탁해](https://github.com/Dcom-KHU/refrigerator-api-server)|냉장고 속 재료 관리와 관련 레시피 안내 서비스|
 
 ---
 
 <div align="center">
-  <a href="mailto:jinho1016@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
-  <a href="mailto:jinho10167@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+  <a href="mailto:jinho1016@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
   <a href="https://lomayd.github.io/"><img src="https://img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google-docs&logoColor=ffffff"/></a>
   <a href="https://lomayd.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 </div>
